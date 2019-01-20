@@ -1,0 +1,5 @@
+hello abhishek
+
+screen 1 image is home page  from that we click on scorecard and result
+screen 2 in scorecard
+screen 3 in result that need to be put on website #phase2 thing
